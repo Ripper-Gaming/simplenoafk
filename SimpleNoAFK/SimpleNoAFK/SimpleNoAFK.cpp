@@ -92,7 +92,7 @@ int main()
 
 	
 	system("cls");
-	cout << termcolor::cyan << "!!!PRESS" << termcolor::green << " F4 " << termcolor::cyan << "TO START!!!" << endl;
+	cout << termcolor::cyan << "!!!PRESS" << termcolor::green << " INSERT " << termcolor::cyan << "TO START!!!" << endl;
 	cout << termcolor::yellow << "While running, you can press SUPR to exit." << endl;
 	cout << termcolor::magenta << "Delay chosen = " << delay << " seconds";
 
